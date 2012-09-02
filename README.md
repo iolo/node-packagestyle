@@ -3,6 +3,24 @@ packagestyle
 
 `packagestyle` is java package style module loader.
 
+## how to install
+
+```
+npm install -g packagestyle
+```
+
+or 
+
+```
+npm install -g packagestyle
+```
+
+or
+
+```
+git clone git@github.com:iolo/node-packagestyle.git
+```
+
 ## how to use by example
 
 ### directory structure
